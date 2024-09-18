@@ -1,4 +1,4 @@
-varomanyshak.github.io
+vasylromanyshakllc.github.io
 ===================
 
-Vasyl's personal website
+vasylromanyshakllc website
